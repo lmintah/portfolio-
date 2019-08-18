@@ -67,6 +67,10 @@ body {
 
 /* About Me Section */
 
+#about {
+  text-align: center;
+}
+
 .section {
   padding:100px 0;
 }
